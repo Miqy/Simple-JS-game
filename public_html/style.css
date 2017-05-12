@@ -1,0 +1,29 @@
+
+/* 
+    Created on : 2017-05-10, 20:22:13
+    Author     : Miqy
+*/
+
+body {
+    background-image: url("res/bg.jpg");
+    color: white;
+}
+h1#main{
+    text-align: center;
+    
+}
+img#player{
+    position: absolute;
+    bottom: 50px;
+    left: 200px;
+    width: 150px;
+    height: 150px;
+    
+}
+img#bullet{
+    width: 20px;
+    height: 50px;
+    position: absolute;
+    left: 0; 
+}
+
